@@ -59,5 +59,6 @@ ul {
   position: sticky;
   top: 0;
   background-color: #fff;
+  opacity: 0.7;
   z-index: 1000;
 }
