@@ -54,3 +54,10 @@ ul {
 .orange {
   color: #ff4a32;
 }
+
+.sticky {
+  position: sticky;
+  top: 0;
+  background-color: #fff;
+  z-index: 1000;
+}
